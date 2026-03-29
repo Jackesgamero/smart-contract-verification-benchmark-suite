@@ -2,8 +2,6 @@
 
 Welcome to **SmartContracts-for-Verification**, a curated repository of smart contracts intentionally designed with known vulnerabilities. These contracts are aligned with the **SWC (Smart Contract Weakness Classification)** registry and serve as a benchmark suite for evaluating and comparing formal verification tools.
 
----
-
 ## 📌 Overview
 
 This repository provides a collection of vulnerable smart contracts that can be used to:
@@ -43,8 +41,4 @@ All vulnerabilities included in this repository are based on the **SWC Registry*
 * Timestamp manipulation
 
 These examples are intentionally vulnerable and **must not be used in production environments**.
-
----
-
-✨ *Happy hacking and secure coding!*
 
